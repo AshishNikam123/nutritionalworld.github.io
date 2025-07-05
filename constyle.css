@@ -8,7 +8,7 @@
 nav {
 	display: flex;
 	justify-content: left;
-	background-color: #8dff8d;
+	background-color: #b9c2c4;
 	padding: 20px;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -24,7 +24,7 @@ textarea {
   width: 100%;
   min-height: 100vh;
   padding: 2rem;
-  background-color: #faf197;
+  background-color: #e8f0ef;
   overflow: hidden;
   display: flex;
   align-items: center;
